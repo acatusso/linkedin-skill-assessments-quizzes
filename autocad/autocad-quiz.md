@@ -300,8 +300,8 @@
 
 - [ ] Snap and Grid
 - [ ] Dynamic Input
-- [ ] Object Snaps
-- [x] Polar Tracking
+- [x] Object Snaps
+- [ ] Polar Tracking
 
 #### Q40. When you use the ARRAY command to create copies of objects in AutoCAD, what do you use to orient a rectangular array?
 
@@ -344,8 +344,8 @@
 
 - [ ] to make sure AutoCAD works properly
 - [ ] to isolate all the blocks you are using in the current drawing
-- [x] to stop anyone seeing which AutoCAD palettes you are using
-- [ ] to automatically hide the palette content and display only the docked palette title bar
+- [ ] to stop anyone seeing which AutoCAD palettes you are using
+- [x] to automatically hide the palette content and display only the docked palette title bar
 
 #### Q46. The navigation bar is normally on by default and is located to the right-hand side of the drawing area. Which variable controls the display of the navigation bar, and to what value does it need to be set for the navigation bar to display on the screen?
 
